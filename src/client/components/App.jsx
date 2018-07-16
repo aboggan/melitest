@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import axios from 'axios';
 
-const API_URL = '/api/items?=';
+const API_URL = '/api/items?q=';
 
 class App extends Component {
  
